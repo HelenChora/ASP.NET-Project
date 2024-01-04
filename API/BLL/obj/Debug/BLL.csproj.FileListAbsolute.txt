@@ -1,0 +1,14 @@
+D:\API\BLL\bin\Debug\BLL.dll
+D:\API\BLL\bin\Debug\BLL.pdb
+D:\API\BLL\bin\Debug\AutoMapper.dll
+D:\API\BLL\bin\Debug\DAL.dll
+D:\API\BLL\bin\Debug\EntityFramework.dll
+D:\API\BLL\bin\Debug\DAL.pdb
+D:\API\BLL\bin\Debug\DAL.dll.config
+D:\API\BLL\bin\Debug\AutoMapper.xml
+D:\API\BLL\bin\Debug\EntityFramework.xml
+D:\API\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\API\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\API\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\API\BLL\obj\Debug\BLL.dll
+D:\API\BLL\obj\Debug\BLL.pdb
